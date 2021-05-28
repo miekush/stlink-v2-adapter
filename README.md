@@ -11,7 +11,7 @@ After I was unable to find a simple adapter board for using 10-pin ARM cables an
 
 ![SWD](Images/bluepill_iso.jpg)
 
-# Tag-Connector Adapter
+# Tag-Connect
 
 ![Tag-Connect](Images/tag_connect_iso.jpg)
 
