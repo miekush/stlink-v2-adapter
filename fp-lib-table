@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name STLINK_Adapter)(type KiCad)(uri ${KIPRJMOD}/STLINK_Adapter.pretty)(options "")(descr ""))
+)
