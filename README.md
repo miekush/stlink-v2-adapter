@@ -15,6 +15,14 @@ After I was unable to find a simple adapter board for using 10-pin ARM cables an
 
 ![Tag-Connect](Images/tag_connect_iso.jpg)
 
+# BOM
+
+| Component | Supplier | Part Number |
+| --- | --- | --- |
+| `JTAG 20P` | Sullins | SFH11-PBPC-D10-ST-BK |
+| `ARM 10P` | Sullins | SBH11-PBPC-D05-ST-BK |
+| `SWD 4P` | Generic | 2.54MM RA Strip Header |
+
 # License
 
 MKE supports the open source hardware community by sharing hardware design files freely on GitHub!
