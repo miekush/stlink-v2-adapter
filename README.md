@@ -27,7 +27,7 @@ After I was unable to find a simple adapter board for using 10-pin ARM cables an
 
 MKE supports the open source hardware community by sharing hardware design files freely on GitHub!
 
-Please support MKE by purchasing products on [Tindie](https://www.tindie.com/stores/mkengineering/)!
+Please support MKE by purchasing products on [Tindie](https://www.tindie.com/stores/miekush/)!
 
 Designed by Mike Kushnerik for MKEngineering
 
